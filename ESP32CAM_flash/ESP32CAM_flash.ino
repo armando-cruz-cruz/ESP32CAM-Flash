@@ -25,3 +25,4 @@ void loop() //Función bucle
   digitalWrite (FLASH, LOW); //Apagar led
   delay (500); //Espera de 2 segundos
 } //Fin de void loop()
+//Hola
